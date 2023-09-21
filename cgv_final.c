@@ -96,8 +96,6 @@ void generateMaze() {
     }
 }
 
-// The rest of the code remains the same...
-
 void drawMaze() {
     int i, j;
     float x, y;
